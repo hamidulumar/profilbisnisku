@@ -1,0 +1,23 @@
+{
+  "name": "Profil Bisnisku Indonesia",
+  "short_name": "Profil Bisnisku",
+  "start_url": "https://www.profilbisnisku.co.id/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Profil Bisnisku adalah sebuah situs yang menawarkan jasa pembuatan situs website landing page atau web Profil termurah dan yang tebaik No. 1 di Indonesia",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDenIHHuc1JtRXcqTTd2swFQFRaLtjNTg7xbNgYz4eUSCaKAr4lwth8XfDOvWaYECs_qDX1mMjDBfDP8MFBnJ74LM6xhNS9BzIs2uwSdUnwa75IhGUw-IGEJK2PY5pAbq6WokJ1mlMy4pFMoGTMyu3_7-Slqwrb9JHH_VOnEqCyoMbFlsRkvSp1qSKds/s192/1727601840661.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimDenIHHuc1JtRXcqTTd2swFQFRaLtjNTg7xbNgYz4eUSCaKAr4lwth8XfDOvWaYECs_qDX1mMjDBfDP8MFBnJ74LM6xhNS9BzIs2uwSdUnwa75IhGUw-IGEJK2PY5pAbq6WokJ1mlMy4pFMoGTMyu3_7-Slqwrb9JHH_VOnEqCyoMbFlsRkvSp1qSKds/s512/1727601840661.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
